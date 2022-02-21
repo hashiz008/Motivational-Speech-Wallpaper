@@ -8,7 +8,7 @@ RecursionCS 課題 Project1-1
 <img width="1440" alt="スクリーンショット 2022-02-21 15 03 03" src="https://user-images.githubusercontent.com/63139730/154898173-6a9e5a70-859a-4949-af36-a50a9c909380.png">
 
 ## Features
-仕事や人間関係で悩んでいるときにこの壁紙を見ることでモチベーションを高められます！
+仕事や人間関係で悩んでいるときにこの壁紙を見ることでモチベーションが高められます！
 
 ## URL
 <a href='https://motivational-speech-wallpaper.vercel.app/'>Motivational Speech Wallpaperへようこそ</a>
