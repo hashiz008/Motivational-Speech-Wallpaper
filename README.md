@@ -14,4 +14,4 @@ RecursionCS 課題 Project1-1
 <a href='https://motivational-speech-wallpaper.vercel.app/'>Motivational Speech Wallpaperへようこそ</a>
 
 ## Author
-@hashiz008
+<a href="https://github.com/hashiz008">hashiz008</a>
