@@ -1,7 +1,7 @@
 # Motivational-Speech-Wallpaper
 RecursionCS 課題 Project1-1
 
-## Description
+## Overview
  HTML、CSSの使用やオブジェクトと連想配列の知識を使い、モチベーションを高める壁紙を作成した初めてのプロジェクト。
 
 ## Image
