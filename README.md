@@ -10,7 +10,7 @@ RecursionCS 課題 Project1-1
 ## Features
 仕事や人間関係で悩んでいるときにこの壁紙を見ることでモチベーションが高められます！
 
-## URL
+## Usage
 <a href='https://motivational-speech-wallpaper.vercel.app/'>Motivational Speech Wallpaperへようこそ</a>
 
 ## Author
