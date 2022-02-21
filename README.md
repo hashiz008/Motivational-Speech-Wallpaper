@@ -1,5 +1,5 @@
 # Motivational-Speech-Wallpaper
-#### [RecursionCS](https://recursionist.io/) 課題 Project1-1
+** [RecursionCS](https://recursionist.io/) 課題 Project1-1 **
 
 ## Overview
 #### HTML、CSSの使用やオブジェクトと連想配列の知識を使い、モチベーションを高める壁紙を作成した初めてのプロジェクト。
