@@ -1,8 +1,11 @@
 # Motivational-Speech-Wallpaper
 RecursionCS 課題 Project1-1
 
-## 概要
-初めて作成したプロジェクトです。HTML、CSS、JavaScriptで作成しオブジェクトや連想配列を使用しました。
+## Description
+ HTML、CSSの使用やオブジェクトと連想配列の知識を使い、モチベーションを高める壁紙を作成した初めてのプロジェクト。
 
 ## URL
 https://motivational-speech-wallpaper.vercel.app/
+
+## Author
+@hashiz008
