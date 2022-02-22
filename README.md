@@ -13,5 +13,11 @@
 ## Reference
 **<a href='https://motivational-speech-wallpaper.vercel.app/'>Motivational Speech Wallpaperへようこそ</a>**
 
+## Requirement
+ * HTML
+ * CSS
+ * JavaScript
+ * Bootstrap
+
 ## Author
 **<a href="https://github.com/hashiz008">hashiz008</a>**
